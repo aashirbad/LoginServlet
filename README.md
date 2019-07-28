@@ -1,2 +1,2 @@
-# LoginServlet
-Log in project connect to database.
+# RegisterServlet
+Register project connect to database.
